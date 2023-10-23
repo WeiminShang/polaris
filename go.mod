@@ -24,7 +24,7 @@ require (
 
 require (
 	github.com/pkg/errors v0.9.1
-	gomodules.xyz/jsonpatch/v2 v2.2.0
+	gomodules.xyz/jsonpatch/v2 v2.4.0
 )
 
 require (
